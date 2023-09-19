@@ -8,6 +8,7 @@ __pycache__/
 
 # Self-define folder and file to ignore
 .DS_Store
+**/.DS_Store
 .ipynb_checkpoints/
 
 # Distribution / packaging
